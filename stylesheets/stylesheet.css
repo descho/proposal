@@ -19,7 +19,7 @@ a {
   display: inline-block;
   margin-bottom: 1rem;
   color: rgba(255, 255, 255, 0.9);
-//background-color: rgba(255, 255, 255, 0.08);
+  background-color: rgba(255, 255, 255, 0.08);
   background-color: rgba(30, 107, 184, 0.9);
   border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
@@ -68,7 +68,7 @@ a {
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem; } }
+    padding: 5rem 10rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
