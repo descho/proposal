@@ -38,6 +38,7 @@ a {
 
 .cta {
   text-align: center;
+  margin-top: 2em;
 }
 
 @media screen and (min-width: 64em) {
@@ -61,7 +62,7 @@ a {
 
 .page-header {
   color: #fff;
-  text-align: center;
+//text-align: center;
   background-color: #159957;
   background-image: linear-gradient(120deg, #155799, #159957); }
 
