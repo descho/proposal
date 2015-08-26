@@ -39,7 +39,7 @@ a {
 .cta {
   text-align: center;
 }
-.cta:first-child {
+.cta.cta-main {
   margin-top: 2em;
 }
 
