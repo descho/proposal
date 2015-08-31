@@ -18,6 +18,7 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
+  margin-top: 1rem;
   color: rgba(255, 255, 255, 0.9);
   background-color: rgba(255, 255, 255, 0.08);
   border-color: rgba(255, 255, 255, 0.2);
@@ -77,11 +78,11 @@ a {
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 14rem 1rem; } }
+    padding: 2rem 14rem 1rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 3rem 4rem 1rem; } }
+    padding: 2rem 4rem 1rem; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
